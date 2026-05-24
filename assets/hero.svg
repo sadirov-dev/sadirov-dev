@@ -1,17 +1,17 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#09111F"/>
-      <stop offset="0.5" stop-color="#111827"/>
-      <stop offset="1" stop-color="#172033"/>
+      <stop offset="0" stop-color="#04070D"/>
+      <stop offset="0.52" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#131A24"/>
     </linearGradient>
     <linearGradient id="lineA" x1="200" y1="20" x2="1000" y2="300" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#22C55E" stop-opacity="0.95"/>
-      <stop offset="1" stop-color="#F59E0B" stop-opacity="0.75"/>
+      <stop offset="0" stop-color="#22C55E" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0.24"/>
     </linearGradient>
     <linearGradient id="lineB" x1="1000" y1="40" x2="260" y2="320" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.7"/>
-      <stop offset="1" stop-color="#22C55E" stop-opacity="0.5"/>
+      <stop offset="0" stop-color="#A5B4FC" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0.32"/>
     </linearGradient>
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="10" result="blur"/>
@@ -24,7 +24,10 @@
 
   <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
 
-  <g opacity="0.16">
+  <circle cx="940" cy="74" r="140" fill="#22C55E" fill-opacity="0.06"/>
+  <circle cx="1030" cy="110" r="110" fill="#FFFFFF" fill-opacity="0.03"/>
+
+  <g opacity="0.12">
     <path d="M60 80H1140" stroke="white" stroke-width="1"/>
     <path d="M60 150H1140" stroke="white" stroke-width="1"/>
     <path d="M60 220H1140" stroke="white" stroke-width="1"/>
@@ -55,10 +58,10 @@
     <circle cx="455" cy="152" r="7" fill="#22C55E">
       <animate attributeName="cy" values="152;144;152" dur="3.5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="844" cy="225" r="7" fill="#F59E0B">
+    <circle cx="844" cy="225" r="7" fill="#E5E7EB">
       <animate attributeName="cy" values="225;217;225" dur="2.8s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="902" cy="118" r="6" fill="#38BDF8">
+    <circle cx="902" cy="118" r="6" fill="#22C55E">
       <animate attributeName="cy" values="118;111;118" dur="3.1s" repeatCount="indefinite"/>
     </circle>
   </g>
@@ -68,27 +71,27 @@
       Abdulloh Sadirov
     </text>
     <text x="78" y="158" fill="#9CA3AF" font-family="Verdana, Geneva, sans-serif" font-size="20" font-weight="500">
-      Fullstack Developer • AI and Web Systems • sadirov.dev
+      Fullstack Developer • AI/ML Engineer • Building premium web systems
     </text>
     <text x="78" y="236" fill="#22C55E" font-family="Verdana, Geneva, sans-serif" font-size="18" font-weight="700">
       frontend systems
       <animate attributeName="opacity" values="1;0.45;1" dur="2.2s" repeatCount="indefinite"/>
     </text>
-    <text x="278" y="236" fill="#F59E0B" font-family="Verdana, Geneva, sans-serif" font-size="18" font-weight="700">
+    <text x="278" y="236" fill="#E5E7EB" font-family="Verdana, Geneva, sans-serif" font-size="18" font-weight="700">
       backend architecture
       <animate attributeName="opacity" values="0.5;1;0.5" dur="2.2s" repeatCount="indefinite"/>
     </text>
-    <text x="500" y="236" fill="#38BDF8" font-family="Verdana, Geneva, sans-serif" font-size="18" font-weight="700">
+    <text x="524" y="236" fill="#22C55E" font-family="Verdana, Geneva, sans-serif" font-size="18" font-weight="700">
       practical AI
       <animate attributeName="opacity" values="1;0.4;1" dur="2.2s" repeatCount="indefinite"/>
     </text>
   </g>
 
-  <rect x="77" y="260" width="244" height="40" rx="20" fill="#0F172A" stroke="#263042"/>
+  <rect x="77" y="260" width="282" height="40" rx="20" fill="#0F172A" stroke="#263042"/>
   <circle cx="105" cy="280" r="6" fill="#22C55E">
     <animate attributeName="r" values="6;7.5;6" dur="1.8s" repeatCount="indefinite"/>
   </circle>
   <text x="122" y="286" fill="#E5E7EB" font-family="Verdana, Geneva, sans-serif" font-size="15" font-weight="600">
-    Building modern web products
+    Modern engineering • minimal signal
   </text>
 </svg>
