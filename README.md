@@ -29,11 +29,15 @@
 </p>
 
 <p align="center">
-  Building premium digital systems across frontend, backend, infrastructure, and applied AI.
+  <strong>Fullstack Developer • AI/ML Engineer</strong>
 </p>
 
 <p align="center">
-  Clean interfaces. Stable APIs. Real-world architecture. Minimal aesthetics with modern engineering depth.
+  Building scalable AI-powered web systems with modern frontend, backend, database, and DevOps technologies.
+</p>
+
+<p align="center">
+  I design and build modern digital systems using React, Django, FastAPI, PostgreSQL, Docker, and AI/ML.
 </p>
 
 <p align="center">
@@ -59,12 +63,36 @@ I design and build software with a systems mindset: product-grade frontend, reli
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,git&theme=dark" alt="Backend stack" />
+  <img src="https://skillicons.dev/icons?i=ts,vue,python,django,fastapi,postgres,mongodb,docker,git&theme=dark" alt="Backend stack" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,linux,vercel,nginx,vscode,tensorflow&theme=dark" alt="Dev tools and AI stack" />
+  <img src="https://skillicons.dev/icons?i=github,gitlab,linux,vercel,nginx,vscode,tensorflow,pytorch&theme=dark" alt="Dev tools and AI stack" />
 </p>
+
+## Frontend
+
+- React, Vue, JavaScript, TypeScript, TailwindCSS, Sass/SCSS
+- Responsive UI systems, component architecture, REST API integration
+- Clean interfaces with product-grade layout and interaction quality
+
+## Backend
+
+- Python, Django, Django REST Framework, FastAPI
+- REST API design, HTTP workflows, JWT authentication
+- Service structure that stays readable and maintainable under growth
+
+## Databases
+
+- PostgreSQL for relational systems and production-minded data design
+- MongoDB for document-oriented use cases and flexible data modeling
+- Focus on schema clarity, query sanity, and real system behavior
+
+## DevOps
+
+- Dockerized applications and environment consistency
+- Nginx, HTTPS, CI/CD, and deployment workflows
+- Linux-based operational thinking for practical delivery
 
 ## Current Focus
 
