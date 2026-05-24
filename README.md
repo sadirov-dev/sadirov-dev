@@ -93,8 +93,9 @@ I design and build software with a systems mindset: product-grade frontend, reli
 ## Engineering Signal
 
 <!-- profile-refresh:start -->
-- Profile signal refresh pending first scheduled run.
-- README automation is active and will update this block automatically.
+- Last automated profile refresh: 2026-05-24 12:52 UTC
+- Active profile mode: Fullstack systems, AI-enabled products, premium engineering presentation
+- Automation status: README signal and contribution snake are enabled
 <!-- profile-refresh:end -->
 
 ## GitHub Analytics
