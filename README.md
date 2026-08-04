@@ -128,18 +128,18 @@ I design and build software with a systems mindset: product-grade frontend, reli
 
 ## GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sadirovabduloh-ux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=CBD5E1&icon_color=22C55E&ring_color=22C55E&include_all_commits=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadirovabduloh-ux&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=CBD5E1" alt="Top languages" />
 </p>
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=sadirovabduloh-ux&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadirovabduloh-ux&bg_color=0D1117&color=CBD5E1&line=22C55E&point=F8FAFC&area=true&hide_border=true" alt="Contribution graph" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sadirovabduloh-ux/sadirovabduloh-ux/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
