@@ -121,7 +121,7 @@ I design and build software with a systems mindset: product-grade frontend, reli
 ## Engineering Signal
 
 <!-- profile-refresh:start -->
-- Last automated profile refresh: 2026-08-17 18:55 UTC
+- Last automated profile refresh: 2026-08-18 18:54 UTC
 - Active profile mode: Fullstack systems, AI-enabled products, premium engineering presentation
 - Automation status: README signal and contribution snake are enabled
 <!-- profile-refresh:end -->
